@@ -1,6 +1,6 @@
 {
   "name": "YTDownloadReact",
-  "homepage": "https://ekadharmaa.github.io/ytdownloader",
+  "homepage": "https://ytdownloader-indol.vercel.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
