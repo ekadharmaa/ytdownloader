@@ -62,7 +62,8 @@ Tetapi ini tidak dapat mengunduh video berhak cipta.
 const Credits = () => {
   const Content =
   <div className="p-2 w-full">
-Terimakasih Kepada Wildan dan Jurdy yang sudah membantu<br></br>
+Terimakasih Kepada Mufid Wildan dan Jurdy yang sudah membantu<br></br>
+  dalam pengembangan website ini :)
 </div>
   return (
     <Tab 
