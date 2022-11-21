@@ -90,9 +90,6 @@ const handle = (val) => {
             <button onClick={() => handle(url)} className="bg-purple-600 rounded-r-md p-1 w-16 h-auto text-slate-100 shadow-xl flex justify-center items-center hover:scale-105 transition"><Download/></button>
           </form>
           
-          <div className="w-[90%] h-10 mt-4">
-            <a href="https://youtube.com"><button className="bg-rose-500 rounded-lg h-10 grow px-5 shadow-lg shadow-rose-600 text-white font-medium flex justify-center items-center gap-1 hover:scale-110 transition">Open Youtube <RightArrow/></button></a>
-          </div>
         
         </div>
       </div>
